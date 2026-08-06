@@ -100,7 +100,8 @@
     { "title": "동아리 시각화 프로젝트", "start": "2026-12-24", "end": "2026-12-30", "type": "small", "tag": "진로상담부", "description": "" },
     { "title": "1, 2학년 SLAT", "start": "2026-12-30", "end": "2026-12-30", "type": "small", "tag": "", "description": "" },
     { "title": "조원대축제", "start": "2026-12-31", "end": "2026-12-31", "type": "large", "tag": "학예부", "description": "" },
-    { "title": "1, 2학년 종업식 및 3학년 졸업식", "start": "2027-01-07", "end": "2027-01-07", "type": "large", "tag": "", "description": "" }
+    { "title": "1, 2학년 종업식 및 3학년 졸업식", "start": "2027-01-07", "end": "2027-01-07", "type": "large", "tag": "", "description": "" },
+    { "title": "테스트 행사", "start": "2026-08-07", "end": "2026-08-07", "type": "small", "tag": "테스트", "description": ""},
   ]
 }
 
